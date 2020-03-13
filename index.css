@@ -32,6 +32,11 @@ body {
   box-shadow: 3px 4px #e04b52
 }
 
+.card img {
+  width: 250px;
+  height:auto;
+}
+
 .toy-avatar {
   justify-self: center;
   height: 12rem;
