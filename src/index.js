@@ -22,19 +22,22 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
 function showToys(toys) {
   toys.forEach(function(toy) {
     writeToy(toy);
   })
 }
+
 function writeToy(toy) {
-  //make a div
-  //save a constant
+
   const toyList = document.getElementById("toy-collection");
   const div = makeToyCard(toy);
+  
   toyList.appendChild(div);
-  // div.appendChild(div);
+
 }
+
 function makeToyCard(toy) {
 
   const div = document.createElement("div");
