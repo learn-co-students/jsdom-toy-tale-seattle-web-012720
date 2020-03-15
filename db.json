@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -47,6 +47,31 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "JAzz``",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_07893e6e-9c9b-4c6f-8bbd-ba027bea81ea?wid=488&hei=488&fmt=pjpeg",
+      "id": 9
+    },
+    {
+      "name": "JAzz`",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_07893e6e-9c9b-4c6f-8bbd-ba027bea81ea?wid=488&hei=488&fmt=pjpeg",
+      "id": 10
+    },
+    {
+      "name": "Jazz",
+      "image": "paosnd;kjn",
+      "id": 11
+    },
+    {
+      "name": "JAzz`",
+      "image": "aslkdfj;",
+      "id": 12
+    },
+    {
+      "name": "JAzz",
+      "image": "    console.log(event.target",
+      "id": 13
     }
   ]
 }
