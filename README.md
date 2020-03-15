@@ -26,7 +26,7 @@ response data, make a `<div class="card">` for each toy and add it to the
 toy-collection `div`.
 
 [ ]
-## Add Toy Info to the Card
+## Add Toy Info to the Card [x]
 
 Each card should have the following child elements:
 
@@ -47,7 +47,7 @@ After all of that, the toy card should resemble:
 ```
 
 [ ]
-## Add a New Toy
+## Add a New Toy [x]
 
 * When a user clicks on the add new toy button, a `POST` request is sent to `http://localhost:3000/toys` and the new toy is added to Andy's Toy Collection.
 * The toy should conditionally render to the page.
